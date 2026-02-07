@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "告白",
+  "base_artist": "平井　堅",
+  "createdAt": "2026-02-07T05:22:31.515350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kokuhaku (Album Mix) [告白]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/01_Kokuhaku_(Album_Mix)_[告白]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "告白",
+      "artist": "CHIHIRO",
+      "has_synced": true,
+      "path": "select/02_告白_CHIHIRO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "告白",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/03_告白_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "告白",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/04_告白_supercell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "告白 (TV Edit)",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/05_告白_(TV_Edit)_supercell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "告白（Acoustic） - 泠鸢yousa",
+      "artist": "泠鸢yousa",
+      "has_synced": true,
+      "path": "select/06_告白(Acoustic)_-_泠鸢yousa_泠鸢yousa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "告白 feat. 初音ミク",
+      "artist": "Siren",
+      "has_synced": false,
+      "path": "select/07_告白_feat._初音ミク_Siren.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "告白",
+      "artist": "初音ミク/SireN",
+      "has_synced": false,
+      "path": "select/08_告白_初音ミク_SireN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "告白",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/09_告白_supercell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "告白",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/10_告白_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Confession 〜告白〜",
+      "artist": "TM NETWORK",
+      "has_synced": false,
+      "path": "select/11_Confession_〜告白〜_TM_NETWORK.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "告白",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_告白_平井_堅.txt"
+    }
+  ]
+}
